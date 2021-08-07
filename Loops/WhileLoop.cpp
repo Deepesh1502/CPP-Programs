@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
   int a, i, n, o;
-  cout << "Select an option;
-  cout << "1) To Print numbers";
-  cout << "2) To print the tables";
+  cout << "Select an option\n";
+  cout << "1) To Print numbers\n";
+  cout << "2) To print the tables\n";
   cout << "Enter the option number: ";
   cin >> o;
 
